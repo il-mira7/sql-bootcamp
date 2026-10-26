@@ -7,7 +7,7 @@
 ## Технологии и темы
 
 - **PostgreSQL 16**, клиент `psql`
-- базовые запросы: `SELECT`, фильтрация, сортировка, `CASE`, скалярные подзапросы, CTE
+- базовые запросы: `SELECT`, фильтрация, сортировка, `CASE`, скалярные подзапросы, CTE (включая рекурсивные)
 - множественные операции: `UNION` / `INTERSECT` / `EXCEPT` (включая `ALL`)
 - соединения: `INNER`, `LEFT` / `RIGHT` / `FULL OUTER`, `CROSS`, `NATURAL`, self-join, anti-join
 - DML: `INSERT` / `UPDATE` / `DELETE`, вставка через подзапросы и `INSERT … SELECT`
